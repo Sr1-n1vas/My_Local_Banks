@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="tdbs">டிபிஎஸ்</string>
+    <string name="tocbc">oசிபிசி</string>
+    <string name="tuob">யூப்</string>
+    <string name="dbsnum">1800 111 1111</string>
+    <string name="uobnum">1800 222 2121</string>
+    <string name="ocbcnum">1800 363 3333</string>
+    <string name="urluob">https://www.uob.com.sg/personal/index.page</string>
+    <string name="urldbs">https://www.dbs.com.sg/index/default.page</string>
+    <string name="urlocbc">https://www.ocbc.com/group/gateway</string>
+
+</resources>
